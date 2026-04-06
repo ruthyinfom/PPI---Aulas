@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@types/node": "^25.5.2",
-    "prompt-sync": "^4.2.0"
-  }
-}
